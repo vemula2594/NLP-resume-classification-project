@@ -1,4 +1,5 @@
-# NLP-resume-classification-project  : The NLP Resume Classification project involves building a text classification model to predict the job profile category for a given resume. The goal is to help HR professionals automate the process of resume screening and candidate selection. The project uses various machine learning algorithms and NLP techniques for preprocessing the text data and evaluating the performance of the model.
+# NLP-resume-classification-project  :
+The NLP Resume Classification project involves building a text classification model to predict the job profile category for a given resume. The goal is to help HR professionals automate the process of resume screening and candidate selection. The project uses various machine learning algorithms and NLP techniques for preprocessing the text data and evaluating the performance of the model.
 
 Business Objective:
 
